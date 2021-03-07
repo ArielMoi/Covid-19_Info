@@ -1,6 +1,8 @@
 # Covid-19_Info
 covid-19 world wide info. vanilla js, html, css. 
 
+Link: https://gifted-williams-97b852.netlify.app/
+
 #
 ![alt text](https://github.com/ArielMoi/Covid-19_Info/blob/main/img/screenShot.png)
 #
